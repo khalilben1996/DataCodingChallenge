@@ -16,7 +16,7 @@
  
 ### Install
 1. clone the project
-	`git clone https://github.com/MenoIy/Gemography-Data-Engineering-Coding-Challenge-t.git`
+	`git clone https://github.com/khalilben1996/DataCodingChallenge.git`
 2. cd into project directory
 	`cd United-remote_Backend_challenge`
 3. Run scrapy (to scrap news from website)
